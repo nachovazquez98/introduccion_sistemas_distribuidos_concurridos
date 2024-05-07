@@ -41,6 +41,7 @@
 - *MEMORIA COMPARTIDA DISTRIBUIDA*
 - *MEMORIA COMPARTIDA*
 
+### Bibliografía
 
 - Tanebaum Andrew. (1995). Sistemas Operativos Distribuidos. España. Prentice-Hall Hisp.
 Mclver Ann. (2011). Sistemas Operativos. México. Cengage Learning.
